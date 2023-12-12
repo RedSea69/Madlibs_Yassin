@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&display=swap');
+
+
+body{
+    background-image: url(../images/background_pattern.png);
+    background-color:#2D4010;
+    font-family: 'Comfortaa', cursive;
+    color: white;
+}
+
+h1, h2{
+    font-family: 'Gabarito', cursive;
+}
+
+
+
+
+#Italisisedcoloredlines{
+
+    color:red;
+}
+
+li{
+    float: left;
+}
+
+.one{
+    font-size: 40px;
+}
+
+section{
+    font-size: large;
+    border-style: double;
+    border-color:#BF8C60;
+    background-color: #8C4A23;
+    width: 60vw;
+    margin: auto;
+    padding: 30px;
+    overflow: hidden;
+}
+
+.alternatebackground{
+    background-color: #474041;
+}
